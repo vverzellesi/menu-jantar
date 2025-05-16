@@ -1,0 +1,29 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Regras de Implementação - Cardápio Frontend
+
+## Arquitetura
+- Projeto em React com Vite
+- Estilização com Tailwind (preferência por temas elegantes: serifadas, cores vinho, bege, dourado)
+- Responsivo, com foco em uso mobile
+
+## Componentização
+- Componente `CardSection` recebe props: `title`, `items[]`
+- Cada `item` contém: `title`, `description`, `imageUrl`
+
+## Design
+- Layout centralizado com max-width (~600px)
+- Fontes elegantes (ex: Playfair Display, Lora)
+- Espaçamento generoso, fundo claro ou com textura leve (como papel)
+
+## Conteúdo
+- Menu carregado de `menu.json`
+- Categorias exibidas apenas se tiverem pratos
+- Nenhuma interação dinâmica (sem filtros, botões, login etc)
+
+## Deploy
+- Build via `vite build`
+- Deploy via GitHub Pages
