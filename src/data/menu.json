@@ -1,0 +1,43 @@
+{
+    "entradas": [
+      {
+        "title": "Bruschetta al Pomodoro",
+        "description": "Tradicional pão rústico italiano levemente tostado, coberto com tomates frescos em cubos, azeite extravirgem e um toque de orégano.",
+        "imageUrl": "/pratos/bruschetta.png"
+      }
+    ],
+    "principais": [
+      {
+        "title": "Spaghetti alla Cremosa di Pomodoro",
+        "description": "Massa artesanal servida com um sugo de tomate cereja, finalizado com um leve toque de panna e generosas lascas de Parmigiano-Reggiano. Um clássico com elegância.",
+        "imageUrl": "/pratos/macarrao.png"
+      }
+    ],
+    "sobremesas": [
+      {
+        "title": "Petit Gâteau al Cioccolato",
+        "description": "Delicado bolinho de chocolate de coração cremoso, servido com gelato de crema. Uma fusão perfeita entre intensidade e suavidade.",
+        "imageUrl": "/pratos/petitgateau.png"
+      }
+    ],
+    "brindes": [
+      {
+        "title": "Scatola del Mistero",
+        "description": "Uma seleção especial de pequenos presentes surpresa, pensados para encantar os convidados com um toque de afeto e mistério.",
+        "imageUrl": "/pratos/presente.png"
+      }
+    ],
+    "bebidas": [
+      {
+        "title": "Acqua Naturale",
+        "description": "Água mineral fresca, servida com elegância para acompanhar sua experiência gastronômica.",
+        "imageUrl": "/pratos/agua.png"
+      },
+      {
+        "title": "Vino Rosso Maziero Bordô Suave",
+        "description": "Vinho tinto suave da tradicional adega de Jundiaí, já degustado por Sua Santidade. Corpo leve e notas frutadas, ideal para harmonizar com massas e histórias.",
+        "imageUrl": "/pratos/vinho.png"
+      }
+    ]
+  }
+  
